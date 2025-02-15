@@ -3,6 +3,9 @@
 Nama: M Dicky Desriansyah  
 Username Dicoding: mdickyd
 
+![https://pngtree.com/freepng/cyber-bullying-and-online-crime-concept_8984871.html](https://github.com/user-attachments/assets/b8bb66fc-fa8f-4a56-a6ff-e3a2d9f45136)
+
+
 |                         | Deskripsi                                                                                                                                                                                                                                                                                                                                                                              |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dataset                 | [Cyberbullying Detection Dataset](https://github.com/rizalespe/Dataset-Sentimen-Analisis-Bahasa-Indonesia/blob/master/dataset_komentar_instagram_cyberbullying.csv)                                                                                                                                                                                                                    |
